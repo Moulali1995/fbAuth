@@ -1,6 +1,7 @@
 # fbAuth
-Social authentication using passport facebook stratergy. 
-This project enables anybody to integrate the Socilal authentication using facebook in their application.
+Social authentication using passport facebook strategy. 
+This project enables anybody to integrate the Social authentication using facebook in their application.
+The Facebook strategy allows users to log in to a web application using their Facebook account. Internally, Facebook authentication works using OAuth 2.0.
 
 ## Scope
 1. Add more social authentication methods like google,twitter and more.
