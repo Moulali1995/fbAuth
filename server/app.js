@@ -46,7 +46,6 @@ passport.deserializeUser(function (obj, cb) {
 // Create a new Express application.
 var app = express()
 // Configure view engine to render EJS templates.
-app.set('views', __dirname + '/views')
 app.set('view engine', 'ejs')
 
 // Use application-level middleware for common functionality, including
